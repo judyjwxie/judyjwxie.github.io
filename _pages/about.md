@@ -22,7 +22,7 @@ I received a Ph.D. in Climate and Energy Policy from Imperial College London in 
 
 Before that, I received a B.S. (highest honors) in Chemical and Biomolecular Engineering from the Georgia Institute of Technology. There, I first began research on heterogenous catalysis under the mentorship of [Dr. Nathan Ellebracht](https://people.llnl.gov/ellebracht1) and [Prof. Chris Jones](https://jones.chbe.gatech.edu/). I then worked on DAC adsorbent degredation as a Research Chemist at Global Thermostat, a DAC spin-off company, and biomass conversion at the [Paul Scherrer Institute](https://www.psi.ch/en) in Switzerland. 
 
-You can find the links to my publications here and on [Google Scholar](https://scholar.google.com/citations?user=MLRn3TIAAAAJ&hl=en). You can connect with me on [LinkedIn](https://www.linkedin.com/in/judyjwxie/).
+You can find the links to my publications [here](/judyjwxie.github.io/publications/) and on [Google Scholar](https://scholar.google.com/citations?user=MLRn3TIAAAAJ&hl=en). You can connect with me on [LinkedIn](https://www.linkedin.com/in/judyjwxie/).
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
