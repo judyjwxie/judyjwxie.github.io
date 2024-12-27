@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: _Climate Change, Energy Policy, Chemical Engineering Technologies_
+subtitle: <i>Climate Change, Energy Policy, Chemical Engineering Technologies</i>
 
 profile:
   align: right
@@ -14,9 +14,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Judy. 👋 
+Hello! My name is Judy. 👋 I am an interdisciplinary researcher working on a just transition towards climate neutrality through technology and policy. 
 
-I am an interdisciplinary researcher working on a just transition towards climate neutrality through technology and policy. I am currently a Postdoctoral Fellow at the [Ziegler Research Group](https://ziegler.chbe.gatech.edu/) at Georgia Tech's [School of Chemical and Biomolecular Engineering](https://www.chbe.gatech.edu/). My research focuses on Direct Air Capture (DAC), a technology that captures carbon dioxide directly from the atmosphere. I am working on accelerating DAC deployment by understanding technology change, its integration with renewable energy, and the relevant equity impacts on communities and stakeholders. I also work with Georgia Tech's Center for Sustainable Communities Research and Education ([SCoRE](https://scre.research.gatech.edu/)), a project partner with the US Department of Energy funded Southeast Direct Air Capture Hub ([SEDAC](https://www.sseb.org/programs/sedac_hub/)), on engaging with community members to understand concerns and help inform engineering decisions. 
+I am currently a Postdoctoral Fellow at the [Ziegler Research Group](https://ziegler.chbe.gatech.edu/) at Georgia Tech's [School of Chemical and Biomolecular Engineering](https://www.chbe.gatech.edu/). My research focuses on Direct Air Capture (DAC), a technology that captures carbon dioxide directly from the atmosphere. I am working on accelerating DAC deployment by understanding technology change, its integration with renewable energy, and the relevant equity impacts on communities and stakeholders. Through Georgia Tech's Center for Sustainable Communities Research and Education ([SCoRE](https://scre.research.gatech.edu/)), a project partner with the US Department of Energy funded [Southeast Direct Air Capture Hub](https://www.sseb.org/programs/sedac_hub/), I also engage with community members to understand their concerns and help inform engineering decisions. 
+
+I received a Ph.D. in Climate and Energy Policy from Imperial College London (UK) under the supervision of [Prof. Joeri Rogelj](https://profiles.imperial.ac.uk/j.rogelj) and [Dr. Iain Staffell](https://profiles.imperial.ac.uk/i.staffell) and funded by the [Imperial College President's PhD Scholarship](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/). During my doctoral research, I interned at the [International Institute for Applied Systems Analysis](https://iiasa.ac.at/staff/elina-brutschin) (Austria) working on the socio-political feasibility of net zero transitions under the mentorship of [Dr. Elina Brutschin](https://iiasa.ac.at/staff/elina-brutschin) in the Energy, Climate, and Environment Program. 
+
+Before that, I received a B.S. (highest honors) in Chemical and Biomolecular Engineering from the Georgia Institute of Technology (US) where I first began research on heterogenous catalysis under the mentorship of [Dr. Nathan Ellebracht](https://people.llnl.gov/ellebracht1) and [Prof. Chris Jones](https://jones.chbe.gatech.edu/). In my engineering days, I worked on DAC adsorbent degredation as a Research Chemist at Global Thermostat, a DAC spin-off company, and biomass conversion at the [Paul Scherrer Institute](https://www.psi.ch/en) (Switzerland). 
+
+You can find the links to my publications here and on [Google Scholar](https://scholar.google.com/citations?user=MLRn3TIAAAAJ&hl=en). You can connect with me on [LinkedIn](https://www.linkedin.com/in/judyjwxie/).
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
