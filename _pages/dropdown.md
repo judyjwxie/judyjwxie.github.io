@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false # remove the drop down from nav bar
 nav_order: 8
 dropdown: true
 children:
