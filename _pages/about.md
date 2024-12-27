@@ -6,7 +6,7 @@ subtitle: Climate and Energy Policy | Chemical and Systems Engineer
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic_belgium.jpg # prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
