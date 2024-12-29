@@ -7,7 +7,6 @@ nav: true # include in nav bar
 nav_order: 6
 ---
 
-<!DOCTYPE html>
 <html>
 <style>
 table, th, td {
@@ -16,7 +15,7 @@ table, th, td {
 </style>
 <body>
 
-<h3>Education</h3>
+<h4>Education</h4>
 <table cellspacing="0" cellpadding="0">
   <tr>
     <th>PhD &nbsp;</th>
@@ -29,7 +28,7 @@ table, th, td {
 </table>
 <br>
 
-<h3>Professional Experience</h3>
+<h4>Professional Experience</h4>
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td>2024-Present&nbsp;&nbsp;&nbsp;</td>
@@ -48,7 +47,7 @@ table, th, td {
     <td>Visiting Researcher, Paul Scherrer Institute (Switzerland)</td>
   </tr>
 </table>
-
-[<h3><b>Full CV</b></h3>](https://judyjwxie.github.io/assets/pdf/241031_CV_Xie.pdf)
 </body>
 </html>
+
+[<b>Full CV</b>](https://judyjwxie.github.io/assets/pdf/241031_CV_Xie.pdf)
