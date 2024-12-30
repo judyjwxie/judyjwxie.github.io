@@ -12,17 +12,21 @@ nav_order: 6
 table, th, td {
   border:none;
 }
+td[rowspan] {
+  vertical-align: top;
+  text-align: left;
+}
 </style>
 <body>
 
 <h4>Education</h4>
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <th>PhD &nbsp;</th>
+    <td><b>PhD</b> &nbsp;</td>
     <td>Imperial College London (UK), Environmental Policy Research, 2024</td>
   </tr>
   <tr>
-    <th>BS &nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <td><b>BS</b> &nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>Georgia Institute of Technology (US), Chemical and Biomolecular Engineering 2019</td>
   </tr>
 </table>
