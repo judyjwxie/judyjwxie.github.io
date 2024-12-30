@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /vita/
-title: cv
+title: CV
 description: # Simpler ways to present my cv
 nav: true # include in nav bar
 nav_order: 6
