@@ -23,7 +23,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/vita/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "dropdown-vienna",
+              title: "Vienna",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-london",
+              title: "London",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
