@@ -1,7 +1,7 @@
 ---
 layout: page
 title: favorites
-nav: false # remove the drop down from nav bar
+nav: true # include this from nav
 nav_order: 8
 dropdown: true
 children:
