@@ -2,27 +2,24 @@
 layout: page
 permalink: /vienna/
 title: Vienna, Austria
-description: # Simpler ways to present my cv
+description: 
 nav: false 
 nav_order: 10
 ---
 
-<!---<iframe class="map" width="924" height="208" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/?ie=UTF8&t=m&ll=13.2164639,74.995161&spn=0.003381,0.017231&z=16&output=embed"></iframe>
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1jqVugE7eafe2yvR_9ve8QXHC7X6MOhk&ehbc=2E312F" width="640" height="480"></iframe>
---->
-
-Vienna is a charming little city that has been rated the [most livable city](https://www.eiu.com/n/vienna-secures-its-position-as-the-worlds-most-liveable-city-for-third-consecutive-year/) in the world a few times. It's got fantastic public transportation. You can get a WienMobil transit pass (from subway station or on-the-tram/bus kiosks) and hop on or off without needing to swipe anything. It's got the grandiose Austrian architecture and gardens (my favorite is the Volksgarten with roses in May). It's got endless sausage stands that operate at odd hours for that post-drinking Käsekrainer (essentially bratwurst with melty cheese) and Bosna (a dressed dog with onion, mustard, and curry powdwer). It's also got world-class [classical music](https://www.musikverein.at/en/ticket-purchase-at-the-vienna-musikverein/) and [opera](https://www.wiener-staatsoper.at/) with cheap standing-room tickets for those on a student budget. Besides the touristy things, here is a list of places I like to frequent while I lived there around 2023-2024. Fair warning that most of these places would be considered "[bobo](https://en.wikipedia.org/wiki/Bobo_(socio-economic_group))". <br>
+Vienna is a charming little place that has been rated the [most livable city](https://www.eiu.com/n/vienna-secures-its-position-as-the-worlds-most-liveable-city-for-third-consecutive-year/) in the world a few times. It's got fantastic public transportation. You can get a WienMobil transit pass (from subway station or on-the-tram/bus kiosks) and hop on or off without needing to swipe anything. It's got the grandiose Austrian architecture and gardens (my favorite is the Volksgarten with roses in May). It's got endless sausage stands that operate at odd hours for that post-drinking Käsekrainer (essentially bratwurst with melty cheese) and Bosna (a dressed dog with onion, mustard, and curry powdwer). It's also got world-class [classical music](https://www.musikverein.at/en/ticket-purchase-at-the-vienna-musikverein/) and [opera](https://www.wiener-staatsoper.at/) with cheap standing-room tickets for those on a student budget. Besides the touristy things, here is a list of places I like to frequent while I lived there around 2023-2024. Fair warning that most of these places would be considered "[bobo](https://en.wikipedia.org/wiki/Bobo_(socio-economic_group))". <br>
 <br>
+
 <b>Index</b><br>
 ★ = Solid choice. <br>
 ★★ = A nice treat. <br>
 ★★★ = Must visit! <br>
 <br>
-Add this list to Google Maps [here](https://maps.app.goo.gl/apBwXKRDN5X7eKbi8).
+Add this list to your Google Maps [here](https://maps.app.goo.gl/apBwXKRDN5X7eKbi8) or click on an address for its individual Goggle Maps link.  
+<br>
 
 <!---coffee and sweets and baked goods--->
-#### Coffee, bakery, sweets, brunch
+#### Coffee
 
 ☕ <b>No Panic Coffee</b> (★★★)<br>
 [Paniglgasse 18, 1040 Wien, Austria](https://maps.app.goo.gl/R2kRrf9gVeyLpsQGA) <br>
@@ -33,6 +30,14 @@ My favorite coffee shop in all of Vienna. Great drinks and great beans. They hav
 [Kirchengasse 44, 1070 Wien, Austria](https://maps.app.goo.gl/jhKKjdLbzBBFPpz56)<br>
 Decent little shop with nice espresso drinks and beans. They don't allow laptops on the big table during the weekend which is a bummer. <br>
 <br>
+
+☕ <b>Jonas Reindl Coffee Roasters</b> (★★)<br>
+[Westbahnstraße 13, 1070 Wien, Austria](https://maps.app.goo.gl/883mWrfnsX6TmWgw5)<br>
+This is a nice chain of third wave coffee + beans. There are two other locations that are great as well. There are usually lots of space for working. <br>
+<br>
+
+
+#### Bakery, sweets, brunch
 
 🥐 <b>L'Amour du Pain</b> (★★★)<br>
 [Otto-Bauer-Gasse 21, 1060 Wien, Austria](https://maps.app.goo.gl/KmhUVfGp6GVswGm97)<br>
@@ -54,6 +59,11 @@ The birthplace of the famous Sachertorte (chocolate cake with a layer of apricot
 I like going here for a huge Kaiserschmarrn (fluffy shreded pancake) to share with 3 other people. <br>
 <br>
 
+🥖 <b>Öfferl</b> (★)<br>
+[Mariahilfer Str. 9, 1060 Wien, Austria](https://maps.app.goo.gl/tetYeQntQp8dX5gX9)<br>
+I like their sourdough bread. The pastries are mid since they are more bready than flaky. <br>
+<br>
+
 🍦<b>Gelateria La Romana</b> (★★)<br>
 [Stiftgasse 15-17, 1070 Wien, Austria](https://maps.app.goo.gl/fv1F2QDvxtev9caD6)<br>
 Classic but elevated flavors (like Sachertorte). The Italians approve. Open basically year-round.<br>
@@ -70,7 +80,7 @@ A decent brunch spot. My favorite is the Ramasuri Sandwich - the Kürbiskernöl-
 <br>
 
 <!---all sorts of food!-->
-#### Food
+#### Lunch or dinner
 
 🥘 <b>Taberna de la Mancha</b> (★)<br>
 [Lerchenfelder Str. 60, 1080 Wien, Austria](https://maps.app.goo.gl/KFSRtHcYcAvgwE7n7) <br>
@@ -132,12 +142,13 @@ A cute little natural wine bar in the second district. Reservation was 25 EUR pe
 
 🍷 <b>Die Rundbar</b> (★★)<br>
 [Lindengasse 1, 1070 Wien, Austria](https://maps.app.goo.gl/jKBCQ8AS14t3LmGv5)<br>
-Cute little natural wine bar with al-fresco dining options. Wine flights They sometimes host <br>
+Cute little natural wine bar with al-fresco dining options. Wine flights are great for trying a few new drinks they bring out based on your preferences. They sometimes host industry days where local winemakers set up tables showcasing their products - only 10 EUR for a bracelet. <br>
 <br>
 
 🍷 <b>Mayer am Nussberg</b> (★★★)<br>
 [Kahlenberger Str. 213, 1190 Wien, Austria](https://maps.app.goo.gl/aDFQRUqxPpFpLhbg8)<br>
 I love having access to the beautiful Kahlenberg vineyards so closeby. It's a cute hike via the [Stadtwanderweg 1](https://www.strava.com/routes/hiking/austria/wien/3247926991173342864) or a bus ride up from the Heiligenstadt subway station. Mayer am Nussberg is a relatively big Heuriger (wine tavern) with many food options, but the others are nice as well. The Grammelschmalz (pork lard spread) is surprisingly morish on bread. If you are lucky to be there around August-November, you have to try a glass of Sturm which is a low-alcohol grapejuice that is just barely fermented.
+<br>
 
 <!---shops etc.-->
 #### Random
