@@ -7,7 +7,7 @@ nav: false
 nav_order: 10
 ---
 
-Vienna is a charming little place that has been rated the [most livable city](https://www.eiu.com/n/vienna-secures-its-position-as-the-worlds-most-liveable-city-for-third-consecutive-year/) in the world a few times. It's got fantastic public transportation. You can get a WienMobil transit pass (from subway station or on-the-tram/bus kiosks) and hop on or off without needing to swipe anything. It's got the grandiose Austrian architecture and gardens (my favorite is the Volksgarten with roses in May). It's got endless sausage stands that operate at odd hours for that post-drinking Käsekrainer (essentially bratwurst with melty cheese) and Bosna (a dressed dog with onion, mustard, and curry powdwer). It's also got world-class [classical music](https://www.musikverein.at/en/ticket-purchase-at-the-vienna-musikverein/) and [opera](https://www.wiener-staatsoper.at/) with cheap standing-room tickets for those on a student budget. Besides the touristy things, here is a list of places I like to frequent while I lived there around 2023-2024. Fair warning that most of these places would be considered "[bobo](https://en.wikipedia.org/wiki/Bobo_(socio-economic_group))". <br>
+Vienna is a charming little place that has been rated the [most livable city](https://www.eiu.com/n/vienna-secures-its-position-as-the-worlds-most-liveable-city-for-third-consecutive-year/) in the world a few times. It's got fantastic public transportation. You can get a WienMobil transit pass (from subway station or on-the-tram/bus kiosks) and hop on or off without needing to swipe anything. It's got the grandiose Austrian architecture and gardens (my favorite is the Volksgarten with roses in May). It's got endless sausage stands that operate at odd hours for that post-drinking Käsekrainer (essentially bratwurst with melty cheese) and Bosna (a dressed dog with onion, mustard, and curry powdwer). It's also got world-class [classical music](https://www.musikverein.at/en/ticket-purchase-at-the-vienna-musikverein/) and [opera](https://www.wiener-staatsoper.at/) with cheap standing-room tickets for those on a student budget. Besides the touristy things, here is a list of places I like to frequent while I lived there around 2023-2024. Lots of places in Vienna are still cash-only so be prepared. Fair warning that most of these places would be considered "[bobo](https://en.wikipedia.org/wiki/Bobo_(socio-economic_group))". <br>
 <br>
 
 <b>Index</b><br>
@@ -15,7 +15,7 @@ Vienna is a charming little place that has been rated the [most livable city](ht
 ★★ = A nice treat. <br>
 ★★★ = Must visit! <br>
 <br>
-Add this list to your Google Maps [here](https://maps.app.goo.gl/apBwXKRDN5X7eKbi8) or click on an address for its individual Goggle Maps link.  
+Add this list to your Google Maps [here](https://maps.app.goo.gl/apBwXKRDN5X7eKbi8) or click on an address for its individual Google Maps link.  
 <br>
 
 <!---coffee and sweets and baked goods--->
@@ -41,7 +41,7 @@ This is a nice chain of third wave coffee + beans. There are two other locations
 
 🥐 <b>L'Amour du Pain</b> (★★★)<br>
 [Otto-Bauer-Gasse 21, 1060 Wien, Austria](https://maps.app.goo.gl/KmhUVfGp6GVswGm97)<br>
-Best coissants and Viennoiserie in Vienna. The cakes and mousses are also so fantastic and sophisticated. I like the pain de mie for fancy toasts and the baguettes are great too. Not a lot of seating.<br>
+Best croissants and Viennoiserie in Vienna. The cakes and mousses are also so fantastic and sophisticated. I like the pain de mie for fancy toasts and the baguettes are great too. Not a lot of seating.<br>
 <br>
 
 🥐 <b>PARÉMI Boulangerie – Pâtisserie</b> (★★)<br>
@@ -51,12 +51,12 @@ Very good French croissants, pastries, breads. The accompanying gelato shop is q
 
 🍰 <b>Demel</b> (★)<br>
 [Kohlmarkt 14, 1010 Wien, Austria](https://maps.app.goo.gl/qDik97MdynwyYZsd9)<br>
-The birthplace of the famous Sachertorte (chocolate cake with a layer of apricot jam). There is always a huge queue to go inside (which is also quite chaotic) to sit but the takeaway line is usually quick. Pretty neat takeaway Kaiserschmarrn (fluffy shreded pancake) in a cone.<br>
+The birthplace of the famous Sachertorte (chocolate cake with a layer of apricot jam). There is always a huge queue to go inside (which is also quite chaotic) to sit but the takeaway line is usually quick. Pretty neat takeaway Kaiserschmarrn (fluffy shredded  pancake) in a cone.<br>
 <br>
 
 🍰<b>Café Imperial Wien</b> (★★)<br>
 [Kärntner Ring 16, 1010 Wien, Austria](https://maps.app.goo.gl/k4gDXYVad29v7eaP8)<br>
-I like going here for a huge Kaiserschmarrn (fluffy shreded pancake) to share with 3 other people. <br>
+I like going here for a huge Kaiserschmarrn (fluffy shredded  pancake) to share with 3 other people. <br>
 <br>
 
 🥖 <b>Öfferl</b> (★)<br>

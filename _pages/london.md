@@ -15,7 +15,7 @@ Living in London was quite an experience. London has got anything you want (exce
 ★★ = A nice treat. <br>
 ★★★ = Must visit! <br>
 <br>
-Add this list to your Google Maps [here](https://maps.app.goo.gl/RijFq5xyC7vRaQtS8) or click on an address for its individual Goggle Maps link.  
+Add this list to your Google Maps [here](https://maps.app.goo.gl/RijFq5xyC7vRaQtS8) or click on an address for its individual Google Maps link.  
 <br>
 
 <!---coffee and sweets and baked goods--->
