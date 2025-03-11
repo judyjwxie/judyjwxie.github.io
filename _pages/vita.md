@@ -56,4 +56,4 @@ td[rowspan] {
 
 <br>
 <br>
-[<b>Full CV</b>](https://judyjwxie.github.io/assets/pdf/241031_CV_Xie.pdf)
+[<b>Full CV</b>](https://judyjwxie.github.io/assets/pdf/250311_CV_Xie.pdf)
